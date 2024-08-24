@@ -44,7 +44,7 @@
     "react-hook-form": "^7.52.1",
     "react-hot-toast": "^2.4.1",
     "react-modal": "^3.16.1",
-    "react-router-dom": "^6.25.1",
+    "react-router-dom": "^6.26.0",
     "react-switch": "^7.0.0",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
