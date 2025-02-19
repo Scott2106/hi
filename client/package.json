@@ -29,7 +29,7 @@
     "chartjs-adapter-date-fns": "^3.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "dompurify": "^3.1.6",
+    "dompurify": "^3.2.4",
     "exceljs": "^4.4.0",
     "input-otp": "^1.2.4",
     "js-cookie": "^3.0.5",
